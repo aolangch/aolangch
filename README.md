@@ -1,6 +1,8 @@
-👋 Hi, I’m @galangao
-👀 I’m interested in programming
-🌱 I’m currently learning:
+👋 Hi, I’m @galangao<br>
+I’m interested in programming
+<br>
+<br>
+🌱 I’m currently learning:<br>
 - Dart
 - Python
 - Vanilla JavaScript
