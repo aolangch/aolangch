@@ -1,8 +1,8 @@
-👋 Hi, I’m @galangao<br>
-I’m interested in programming <3
+👋 Hi, I’m @aolangch<br>
+I’m interested in programming :blue_heart:
 <br>
 <br>
-🌱 I’m currently learning:<br>
+:cyclone: I’m currently learning:<br>
 
 - Vanilla JS
 
