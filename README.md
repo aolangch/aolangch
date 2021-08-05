@@ -1,5 +1,5 @@
 👋 Hi, I’m @galangao<br>
-I’m interested in programming
+I’m interested in programming <3
 <br>
 <br>
 🌱 I’m currently learning:<br>
