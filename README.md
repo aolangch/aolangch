@@ -4,6 +4,7 @@ I’m interested in programming :blue_heart:
 <br>
 :cyclone: I’m currently learning:<br>
 
+- Dart
 - Vanilla JS
 
 
