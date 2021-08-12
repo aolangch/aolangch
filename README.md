@@ -1,6 +1,7 @@
 :cyclone: I’m currently learning:<br>
 
 - Dart
+- Tailwind CSS
 - Vanilla JS
 
 
