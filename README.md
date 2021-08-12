@@ -1,7 +1,3 @@
-👋 Hi, I’m @aolangch<br>
-I’m interested in programming :blue_heart:
-<br>
-<br>
 :cyclone: I’m currently learning:<br>
 
 - Dart
